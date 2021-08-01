@@ -7,7 +7,7 @@ Case Study for Circus Social
 ### Libraries used:
 
 pandas
-numpy 
+numpy
 matplotlib
 seaborn
 scikit-learn
