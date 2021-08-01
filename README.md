@@ -2,7 +2,7 @@
 Case Study for Circus Social
 
 ## Twitter Impact analysis
-### This is a case study given by Social Circus. The goal is to predict the impact of the tweets
+### This is a case study given by Circus Social. The goal is to predict the impact of the tweets
 
 ### Libraries used:
 
